@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Kirtiraj/static/css/main.eb0b78c8.css",
-    "main.js": "/Kirtiraj/static/js/main.864a2dfb.js",
-    "static/js/787.ee95881d.chunk.js": "/Kirtiraj/static/js/787.ee95881d.chunk.js",
-    "index.html": "/Kirtiraj/index.html",
-    "main.eb0b78c8.css.map": "/Kirtiraj/static/css/main.eb0b78c8.css.map",
-    "main.864a2dfb.js.map": "/Kirtiraj/static/js/main.864a2dfb.js.map",
-    "787.ee95881d.chunk.js.map": "/Kirtiraj/static/js/787.ee95881d.chunk.js.map"
+    "main.css": "/kirtiraj/static/css/main.eb0b78c8.css",
+    "main.js": "/kirtiraj/static/js/main.2977710e.js",
+    "static/js/787.ee95881d.chunk.js": "/kirtiraj/static/js/787.ee95881d.chunk.js",
+    "index.html": "/kirtiraj/index.html",
+    "main.eb0b78c8.css.map": "/kirtiraj/static/css/main.eb0b78c8.css.map",
+    "main.2977710e.js.map": "/kirtiraj/static/js/main.2977710e.js.map",
+    "787.ee95881d.chunk.js.map": "/kirtiraj/static/js/787.ee95881d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb0b78c8.css",
-    "static/js/main.864a2dfb.js"
+    "static/js/main.2977710e.js"
   ]
 }
